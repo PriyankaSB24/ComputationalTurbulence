@@ -32,5 +32,5 @@ NOTE : RUN FILES 1 AND 2 TOGETHER while importing the entropy functions from FIL
 * **Usage:** Shared library imported across the project for entropy and PMF calculations.
   
 #### **7. `ShannonEntropygraph_psb.py`**
-* **Purpose:** Standalone script to visualize entropy graphs using `matplotlib`.
+* **Purpose:** Standalone script to visualize entropy graphs using matplotlib.
 * **Usage:** Useful for plotting entropy from saved arrays or external data.
